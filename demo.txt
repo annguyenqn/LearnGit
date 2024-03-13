@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is content as master
+=======
+this it content as Dev3
+>>>>>>> Dev3
